@@ -1,4 +1,8 @@
 # text-color
+
+```text
+  go print text color
+```
 ## useage
 
 ```text
