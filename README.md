@@ -19,6 +19,6 @@ import (
 )
 
 func main() {
-  fmt.Println(text-color.Blue("blue"))
+  println(rintln(text-color.Blue("blue"))
 }
 ```
