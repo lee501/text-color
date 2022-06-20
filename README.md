@@ -6,7 +6,7 @@
 ## install
 
 ```text
-go get git@github.com:sevenelevenlee/text-color@latest
+go get git@github.com:leex486/text-color@latest
 ```
 
 ## example
