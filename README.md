@@ -3,8 +3,22 @@
 ```text
   go print text color
 ```
-## useage
+## install
 
 ```text
-go get github.com/code-raisan/gocolor@latest
+go get git@github.com:sevenelevenlee/text-color@latest
+```
+
+## example
+
+```go
+package main
+
+import (
+	"github.com:sevenelevenlee/text-color"
+)
+
+func main() {
+  fmt.Println(text-color.Blue("blue"))
+}
 ```
