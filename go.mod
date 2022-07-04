@@ -1,3 +1,3 @@
-module github.com/sevenelevenlee/text_color
+module github.com/lee501/text_color
 
-go 1.17
+go 1.18
