@@ -1,7 +1,7 @@
 # text-color
 
 ```text
-  go print text color
+  let terminal display diff color with text-color
 ```
 ## install
 
